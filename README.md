@@ -1,0 +1,2 @@
+# WpAjaxCache
+WP Ajax Cache
